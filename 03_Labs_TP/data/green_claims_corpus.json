@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "corpus_name": "Corporate Sustainability Disclosures & EU Regulatory Evidence Corpus",
+    "course": "4S4TWS_21 — Agentic AI (École Centrale de Lyon & emlyon business school)",
+    "instructor": "Chouaieb Nemri"
+  },
+  "documents": [
+    {
+      "doc_id": "REG-EU-GCD-01",
+      "source": "EU Green Claims Directive & Empowering Consumers Directive (2026 Enforcement Guide)",
+      "category": "Regulation",
+      "title": "Ban on Generic Carbon Neutrality Claims Based on Offsets",
+      "content": "Under EU Directive 2024/825 and the Green Claims framework, companies are strictly prohibited from claiming a product or organization is 'carbon neutral', 'climate positive', or '100% green' based on voluntary carbon offsetting outside the product's value chain. Any net-zero claim must specify separate, verified reductions in Scope 1, Scope 2, and Scope 3 emissions aligned with a 1.5°C pathway, and carbon credits may only cover residual emissions (<10% of baseline) via certified permanent removals."
+    },
+    {
+      "doc_id": "REG-EU-CBAM-02",
+      "source": "EU Carbon Border Adjustment Mechanism (CBAM) Definitive Regime 2026",
+      "category": "Regulation",
+      "title": "CBAM Financial Liability Formula for Imported Steel, Aluminum, and Chemicals",
+      "content": "Starting January 1, 2026, EU importers of iron, steel, aluminum, cement, fertilizers, and hydrogen from non-EU countries without equivalent carbon pricing must surrender CBAM certificates. For procurement risk modeling, the gross CBAM exposure equals (Scope 1 + Scope 2 embedded emissions in tCO2e attributable to the contract) multiplied by the EU ETS allowance price (€85/tCO2e benchmark), scaled by the buyer's share of supplier output (default 15% allocation factor in audit stress tests)."
+    },
+    {
+      "doc_id": "REG-EU-CSRD-03",
+      "source": "EU Corporate Sustainability Reporting Directive (CSRD) — ESRS E1 & S1",
+      "category": "Regulation",
+      "title": "Mandatory Supplier Corrective Action Plan (CAP) Thresholds",
+      "content": "Under internal Responsible Business Procurement Policy v4.2 aligned with ESRS E1 (Climate Change) and ESRS S1 (Own Workforce), any Tier-1 supplier with Annual Spend >= €2,000,000 MUST be placed on a Mandatory Corrective Action Plan (HIGH_RISK) if ANY of the following hold: (a) combined Scope 1 + Scope 2 emissions exceed 25,000 tCO2e without SBTi verification, OR (b) workplace labor safety incidents in the past 12 months are >= 3."
+    },
+    {
+      "doc_id": "CLAIM-AERO-101",
+      "source": "AeroTransit Europe 2026 Marketing Brochure & Annual Sustainability Report",
+      "category": "Corporate Filing",
+      "title": "AeroTransit Claim: '100% Carbon-Neutral European Freight Operations in 2026'",
+      "content": "Marketing Headline: 'Every AeroTransit shipment across Europe is 100% Carbon Neutral today.' Footnote 14 on page 88 of the 2026 Non-Financial Statement reveals: Direct fleet diesel and jet fuel emissions (Scope 1) increased by +4.2% year-over-year to 412,000 tCO2e. Sustainable aviation/bio-LNG fuel accounted for 1.8% of total fuel burn. The '100% Carbon Neutral' label is achieved by purchasing 412,000 unverified voluntary forestry avoidance credits at €3.50/tCO2e."
+    },
+    {
+      "doc_id": "CLAIM-NORDIC-102",
+      "source": "NordicVolt Battery Systems AB — 2026 Audited ESRS E1 Climate Disclosure",
+      "category": "Corporate Filing",
+      "title": "NordicVolt Claim: '72% Lower Cell Manufacturing Carbon Footprint vs. Global Average'",
+      "content": "Claim: 'NordicVolt lithium-ion cells are produced with 72% lower Scope 1+2 carbon intensity than the global coal-grid baseline.' Audited Evidence (pwc Assurance Report 2026-04): Scope 1 emissions are 2,400 tCO2e and Scope 2 market-based emissions are 650 tCO2e across 12 GWh output, powered by 96% Nordic hydropower under long-term PPAs. SBTi 1.5°C target verified. Scope 3 upstream cathode precursor emissions (19,800 tCO2e) are reported separately and not conflated with Scope 1+2."
+    },
+    {
+      "doc_id": "CLAIM-FASTFASH-103",
+      "source": "VelvetLoop Apparel Group — Spring 2026 'EcoConscious Capsule' Press Release",
+      "category": "Corporate Filing",
+      "title": "VelvetLoop Claim: 'Sustainable Zero-Impact Garment Line'",
+      "content": "Marketing Claim: 'Our EcoConscious line is a zero-impact, circular fashion collection.' Internal Audit & Supply Chain Traceability Log (2026-Q2): The collection uses 22% recycled polyester blended with 78% virgin petrochemical elastane (rendering garments non-recyclable in mechanical textile facilities). Dyeing subcontractors in Tier-2 facilities lack wastewater treatment certifications, and no product-level Life Cycle Assessment (LCA) has been conducted."
+    },
+    {
+      "doc_id": "CLAIM-RHONE-104",
+      "source": "RhôneAlpin GreenSteel SA — 2026 Decarbonization Progress Report",
+      "category": "Corporate Filing",
+      "title": "RhôneAlpin Claim: '58% Absolute Scope 1+2 Emissions Reduction Since 2021'",
+      "content": "Claim: 'RhôneAlpin GreenSteel cut absolute Scope 1 and Scope 2 emissions by 58% between 2021 and 2026.' Audited Evidence (Bureau Veritas ISO 14064-3 Verification): Baseline 2021 Scope 1+2 was 41,200 tCO2e; 2026 verified Scope 1+2 is 17,300 tCO2e (14,200 Scope 1 + 3,100 Scope 2) following decommissioning of two coal blast furnaces and commissioning of electric arc furnaces using 78.5% low-carbon electricity. Residual emissions are disclosed without offset netting."
+    },
+    {
+      "doc_id": "CLAIM-CLOUD-105",
+      "source": "HyperCompute AI Data Centers — 2026 Sustainability Whitepaper",
+      "category": "Corporate Filing",
+      "title": "HyperCompute Claim: 'Zero-Water, Net-Zero AI Compute Regions'",
+      "content": "Marketing Claim: 'All HyperCompute European AI clusters operate with zero water impact and net-zero emissions.' Technical Annex B: Closed-loop adiabatic cooling is deployed in 2 of 7 facilities (Nordics), while 5 Southern European facilities consumed 1.4 million cubic meters of municipal potable water in 2025. Scope 2 emissions are matched annually with unbundled Guarantee of Origin (GO) certificates rather than 24/7 hourly carbon-free energy matching."
+    }
+  ]
+}
